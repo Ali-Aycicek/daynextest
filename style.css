@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.iki{
+    margin-left: 40px;
+}
+.etiket li{
+    margin-left: 14px;
+
+}
+.etiket li a:hover{
+    color: #777777;
+
+}
+.nav_color button:hover{
+    color: #777777;
+}
+
+
+.navbar{
+    background-color: #fff;
+}
+.ali{
+    margin-left: 20px;
+    margin-right: 30px;
+    size: 20px;
+}
+.ali button{
+    font-size: 12px;
+}
+.top_bar {
+    background: rgba(142, 182, 75);
+    color: #fff;
+    
+}
+.top_bar div {
+    display: inline-block;
+    
+} 
+.top_bar div button{
+    background: rgba(142, 182, 75);
+} 
+.top_bar_first{
+    margin-left: 60px;
+} 
+.top_bar_third h3{
+    font-size: 12px;
+}
+.fqs{
+    margin-right: 60px;
+}
+.top_bar_right{
+    float: right;
+}
+.linkler i{
+    padding-right: 10px;
+    font-size: 15px;
+}
+.linkler a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.linkler a:hover{
+    color: #777777;
+}
+.color{
+    font-size: 30px;
+}
+.color button{
+    color: #fff;
+    font-size: 12px;
+
+}
+.color button:hover{
+    color: #777777;
+}
+.color a:hover{
+    color: rgba(142, 182, 75) ;
+}
+.button_alt{
+    
+    margin-left: 60px;
+}
+.button_alt div{
+    display: inline-block;
+}
+.button_alt_first{
+    width: 20%;
+    float: left;
+}
+.button_alt_first button div{
+    margin-left: 10px;
+    float: left;
+}
+.button_alt_first :first-child button{
+    background-color: rgba(142, 182, 75);
+    height: 50px;
+    color: #fff;
+}
+.button_alt_first :first-child:hover {
+    background-color: #f0ebeb;
+}
+.button_alt_first button{
+    width: 275px;
+    margin-top: 0px;
+    border:  groove rgb(236, 236, 236);
+    border-width: 0px 1px 1px 1px;
+    border-radius: 0px;
+    
+}
+.sss{
+    float: right;
+}
+.button_alt_second{
+    width: 73%;
+}
+.button_alt_second_menu :first-child button{
+    color: rgba(142, 182, 75);
+}
+.button_alt_second :first-child button:hover{
+    color: rgba(142, 182, 75);
+    
+}
+.button_alt_second button{
+    font-size: 15px;
+}
+.buton_alt_second_link a{
+    text-decoration: none;
+    color: black;
+}
+.buton_alt_second_link{
+    float: right;
+    font-size: 15px;
+    
+}
+.buton_alt_second_link :first-child a{
+    color: rgba(142, 182, 75);
+}
+.carousel-item img{
+    width: 70%;
+    height: 600px;
+    display: inline-block;
+    float: right;
+   
+}
+.carousel-item{
+    height: 410px;
+
+    display: inline-block;
+    background-color: rgb(249, 248, 248);
+}
+.compression{
+    position: absolute;
+    display: inline-block;
+    left: 40px;
+    top: 50px;
+    
+}
+.compression p{
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+.icon_image img{
+    float: left;
+    display: inline-block;
+    width: 47px;
+    height: 47px;
+}
+.next_icon{
+    background-color: black;
+    padding-top: 30px;
+    padding-left: 30px;
+    color: #000;
+}
